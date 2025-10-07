@@ -24,7 +24,7 @@ React 18 + TypeScript 프론트엔드. SSE 실시간 스트리밍과 동적 컴�
 - **백엔드**: Python, FastAPI
 - **시각화**: Recharts, React Leaflet
 
-## 빠른 시작
+<!-- ## 빠른 시작
 
 ```bash
 # CLI 도구
@@ -37,7 +37,7 @@ cd Vibecraft-Frontend && npm install && npm run dev
 
 # 2. Backend
 cd vibecraft-backend && uv venv && source .venv/bin/activate && uv sync && python main.py
-```
+``` -->
 
 ## 라이선스
 
